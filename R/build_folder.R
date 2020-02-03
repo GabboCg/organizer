@@ -1,4 +1,4 @@
-#' build R proyect folders
+#' Build R proyect folders
 #'
 #' @importFrom fs dir_tree
 #'
