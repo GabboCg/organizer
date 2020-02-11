@@ -1,1 +1,3 @@
 # organizer
+
+## Functions 
